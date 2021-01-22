@@ -2,4 +2,3 @@
 配合技术分享准备的测试项目。
 技术分享文章请到我的语雀文档里查阅。
 [点此跳转](https://www.yuque.com/zhangpangzi-3kkxx/ierw03)
-(点此跳转)[https://www.yuque.com/zhangpangzi-3kkxx/ierw03]
